@@ -10,7 +10,7 @@ export default function TabOneScreen({
   return (
     <ScrollView>
       <View style={styles.container}>
-        <Text style={styles.title}>Experience</Text>
+        <Text style={styles.title}>As a Professional</Text>
         <View
           style={styles.separator}
           lightColor="#eee"
@@ -52,7 +52,7 @@ export default function TabOneScreen({
               <ListItem
                 title="SQL Server"
                 secondaryText="Designed and developed various SQL scripts to clean and manage
-            existing patient and staff data on our SQL Servers"
+            existing patient and staff data"
               />
               <ListItem
                 title="Work, Work, Work"

@@ -7,7 +7,7 @@ export default function TabTwoScreen() {
   return (
     <ScrollView>
       <View style={styles.container}>
-        <Text style={styles.title}>Projects</Text>
+        <Text style={styles.title}>As a Student</Text>
         <View
           style={styles.separator}
           lightColor="#eee"
