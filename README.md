@@ -1,6 +1,9 @@
 # Portfolio
 Built with Expo & React Native Material - https://xmlns.github.io
 
+# Running locally
+yarn start
+
 # Expo docs
 https://docs.expo.dev/
 
